@@ -1,0 +1,8 @@
+[package]
+name = "rust-cheatsheet"
+version = "0.1.0"
+authors = ["lucas"]
+edition = "2018"
+
+[dependencies]
+
